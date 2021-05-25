@@ -60,7 +60,8 @@ Shown is the fluorescent path on the top objective. The mirrors are located atop
 9. Beam splitter cube assembly
 
 Shown is the housing for the non-polarizing beam splitter cube (right cube). Also shown is the widefield dichroic.
-![9  Beam splitter cube assembly](https://user-images.githubusercontent.com/84803862/119552711-d43dcb00-bd68-11eb-99d3-f88de2743d1f.jpg)
+![9  Beam splitter cube assembly](https://user-images.githubusercontent.com/84803862/119555188-93938100-bd6b-11eb-80cd-902ce0638e93.jpg)
+
  
 
 
