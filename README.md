@@ -37,7 +37,7 @@ The sample is immersed from the top into a cubic chamber machined out of stainle
 
 
 7. Florescent path (Bottom)
-The box highlights the phase shifter (Piezo-electric mount)
+The mirror (bottom) is connected to Piezo-electric mount (Phase shifter)
 ![7  Florescent path (Bottom)](https://user-images.githubusercontent.com/84803862/119552696-cee08080-bd68-11eb-847b-4a9cee14038b.jpg)
 
 
