@@ -5,7 +5,7 @@ Show here are photographs of the current 3D Interferometric Lattice Light-Sheet 
 The excitation path is built based on the originally reported LLS design.
 
 
-1. Laser combiner, Lattice light sheet generation\
+1. Laser combiner, Lattice light sheet generation
 
 An ATOF device (AA OPTO-ELECTRONIC, ATFnC-400.650-TN and MPDS8C driver) facilitates on-off switching of a CW laser beam (642nm; MPB Communications, 2RU-VFL-P-500-642-B1R or 2RU-VFL-P-2000-642-B1R) and modulating laser power.
 ![1  Laser combiner](https://user-images.githubusercontent.com/84803862/119552625-ba03ed00-bd68-11eb-88f7-394a257d7c1d.jpg)
